@@ -2,7 +2,7 @@
 
 Hilmi Reda Developper 
 
-## Project Setup - Maven && Jdk8 required. 
+## Project Setup - Maven, Jdk8 are required. 
 ```
 
 #Maven.
