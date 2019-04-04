@@ -2,12 +2,12 @@
 
 Hilmi Reda Developper 
 
-## Project Setup
-```maven && jdk8 
+## Project Setup - Maven && Jdk8 required. 
+```
 
 #Maven.
 mvn clean install
 
 The partition Function is implemented in Partition.java 
-Ps : you can run tests on IDE where you can found them on PartitionTest.java 
+Ps : you can run tests on the IDE where you can found them on PartitionTest.java 
 ```
